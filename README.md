@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ansari</h1>
-<h3 align="center">Expert in Cross-Platform Mobile Development using Flutter/Dart, with proficiency in React Native and Swift. Creating seamless mobile experiences for iOS and Android. #iOSDevelopment #AndroidDevelopment #FlutterDeveloper</h3>
+<h3 align="center">Expert in Cross-Platform Mobile Development using Flutter/Dart, with proficiency in React Native and Swift. Creating seamless mobile experiences for iOS and Android.</h3>
 
 - 🌱 I’m currently learning **Advanced **Flutter State Management (BLoC)** - **Firebase Integration** for real-time apps - **Design Patterns** to improve app architecture**
 
