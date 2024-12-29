@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ansari</h1>
 <h3 align="center">A passionate Flutter developer dedicated to building innovative and high-quality mobile apps.</h3>
 
-- 🔭 I’m currently working on [photo_lab_filter](https://github.com/AbdullahAnsari/photo_lab_filter)
-
 - 🌱 I’m currently learning **Advanced **Flutter State Management (BLoC)** - **Firebase Integration** for real-time apps - **Design Patterns** to improve app architecture**
 
-- 💬 Ask me about **Flutter, Mobile App developement**
+- 💬 Ask me about **Flutter, Dart**
 
 - 📫 How to reach me **abdullahflutterwork@gmail.com**
 
-- ⚡ Fun fact **I think debugging is like solving a mystery—exciting but sometimes scary!**
+- ⚡ Fun fact **Having a clear app architecture is like building a strong foundation for a house—everything else stands stronger and longer!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
