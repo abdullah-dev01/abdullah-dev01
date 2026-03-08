@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ansari</h1>
-<h3 align="center">Experienced Flutter Developer with a passion for creating seamless cross-platform mobile applications for iOS and Android. Proficient in Dart and committed to building fast, scalable, and responsive apps.</h3>
+<h3 align="center">Software Engineer & Flutter Developer | GCU Lahore Alumnus</h3>
 
-- 🌱 I’m currently learning **Advanced Flutter State Management (BLoC), Firebase Integration for real-time apps, and Design Patterns to improve app architecture.**  
-- 💬 Ask me about **Flutter, Dart, and Mobile App Architecture.**  
-- 📫 How to reach me: **abdullahflutterwork@gmail.com**  
-- ⚡ Fun fact: **A well-structured app architecture is like a solid foundation for a house—everything else stands stronger and lasts longer!**  
+<p align="center">
+  Dedicated to solving real-world problems through mobile technology. 
+  I combine academic theory with 22 months of professional development 
+  in the Pakistani tech industry, specializing in scalable, high-performance apps.
+</p>
+
+- 🚀 **Project Highlight:** "Career Bridge" – A portal connecting 500+ local students with industry mentors.
+- 🌱 I’m currently exploring **Advanced Software Design Patterns and Enterprise-level Scalability** to prepare for my Master's journey in Fall 2027.
+- 💬 Ask me about **Flutter, Dart, Clean Architecture, and Firebase.**
+- 📫 How to reach me: **abdullahflutterwork@gmail.com**
+- ⚡ Fun fact: **Code is like poetry; it should be concise, meaningful, and easy to read.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
