@@ -2,19 +2,13 @@
 <h3 align="center">Software Engineer & Flutter Developer | IAS Alumnus</h3>
 
 <p align="center">
-  Mobile application developer with 22 months of professional experience in Pakistan’s tech industry. 
-  I specialize in designing and building scalable, high-performance Flutter applications using Clean Architecture, 
-  BLoC, and modern state management patterns.
+  Mobile application developer with 22 months of professional experience in Pakistan’s tech industry, 
+  specializing in scalable and high-performance Flutter applications.
 </p>
 
 <p align="center">
-  My work focuses on delivering real-world mobile solutions, from telemedicine and real-time communication platforms 
-  to e-commerce, service booking, and location-based applications.
-</p>
-
-<p align="center">
-  <strong>🌱 Currently deepening my knowledge in advanced software design patterns and enterprise-level architecture</strong><br>
-  <strong>👯 Open to collaborating on innovative mobile projects and open-source contributions</strong><br>
+  <strong>🌱 Currently deepening my knowledge in advanced software design patterns and enterprise-level architecture</strong><br><br>
+  <strong>👯 Open to collaborating on innovative mobile projects</strong><br><br>
   <strong>💬 Ask me about Flutter, Dart, Clean Architecture, Firebase, real-time systems, and scalable app development</strong>
 </p>
 
