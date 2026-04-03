@@ -7,9 +7,9 @@
 </p>
 
 <p align="left">
-  <strong>🌱 Currently deepening my knowledge in advanced software design patterns and enterprise-level architecture</strong><br><br>
-  <strong>👯 Open to collaborating on innovative mobile projects</strong><br><br>
-  <strong>💬 Ask me about Flutter, Dart, Clean Architecture, Firebase, real-time systems, and scalable app development</strong>
+  <strong>📚 Currently deepening my knowledge in advanced software design patterns and enterprise-level architecture</strong>
+  <strong>🤝 Open to collaborating on innovative mobile projects</strong>
+  <strong>💡 Ask me about Flutter, Dart, Clean Architecture, Firebase, real-time systems, and scalable app development</strong>
 </p>
 
 <h3 align="left">Connect with me:</h3>
