@@ -1,40 +1,22 @@
-<h1>👋 Hi there, I'm Abdullah!</h1>
-    <h1 class="highlight">🚀 Software Engineer & Flutter Developer | GCU Lahore Alumnus</h1>
-    <h2>🌟 About Me</h2>
-    <p>Mobile application developer with <strong>22 months</strong> of professional experience in Pakistan’s tech industry. I specialize in designing and building scalable, high-performance Flutter applications using Clean Architecture, BLoC, and modern state management patterns.</p>
-    <p>My work focuses on delivering real-world mobile solutions — from telemedicine and real-time communication platforms to e-commerce, service booking, and location-based applications.</p>
-    <ul>
-        <li><span class="emoji">🌱</span> Currently deepening my knowledge in advanced software design patterns and enterprise-level architecture</li>
-        <li><span class="emoji">👯</span> Open to collaborating on innovative mobile projects and open-source contributions</li>
-        <li><span class="emoji">💬</span> Ask me about Flutter, Dart, Clean Architecture, Firebase, real-time systems, and scalable app development</li>
-    </ul>
-    <h2>🛠 Tech Stack</h2>
-    <div class="tech-grid">
-        <div class="tech-card">
-            <h3>Languages & Frameworks</h3>
-            <p>Flutter • Dart • REST APIs • WebSockets</p>
-        </div>
-        <div class="tech-card">
-            <h3>State Management</h3>
-            <p>BLoC • Provider</p>
-        </div>
-        <div class="tech-card">
-            <h3>Architecture & Design</h3>
-            <p>Clean Architecture • S.O.L.I.D Principles</p>
-        </div>
-        <div class="tech-card">
-            <h3>Backend & Databases</h3>
-            <p>Firebase • MySQL • Hive</p>
-        </div>
-        <div class="tech-card">
-            <h3>Specialized Integrations</h3>
-            <p>Google Maps (Live Tracking) • Payment Gateways • Jitsi Meet • TensorFlow Lite</p>
-        </div>
-        <div class="tech-card">
-            <h3>Tools & DevOps</h3>
-            <p>Git • GitHub • CI/CD • Play Store & App Store Deployment</p>
-        </div>
-    </div>
+<h1 align="center">👋 Hi there, I'm Abdullah!</h1>
+<h3 align="center">Software Engineer & Flutter Developer | GCU Lahore Alumnus</h3>
+
+<p align="center">
+  Mobile application developer with 22 months of professional experience in Pakistan’s tech industry. 
+  I specialize in designing and building scalable, high-performance Flutter applications using Clean Architecture, 
+  BLoC, and modern state management patterns.
+</p>
+
+<p align="center">
+  My work focuses on delivering real-world mobile solutions — from telemedicine and real-time communication platforms 
+  to e-commerce, service booking, and location-based applications.
+</p>
+
+<p align="center">
+  <strong>🌱 Currently deepening my knowledge in advanced software design patterns and enterprise-level architecture</strong><br>
+  <strong>👯 Open to collaborating on innovative mobile projects and open-source contributions</strong><br>
+  <strong>💬 Ask me about Flutter, Dart, Clean Architecture, Firebase, real-time systems, and scalable app development</strong>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
