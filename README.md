@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Abdullah!</h1>
-<h3 align="center">Software Engineer & Flutter Developer | GCU Lahore Alumnus</h3>
+<h3 align="center">Software Engineer & Flutter Developer | IAS Alumnus</h3>
 
 <p align="center">
   Mobile application developer with 22 months of professional experience in Pakistan’s tech industry. 
@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  My work focuses on delivering real-world mobile solutions — from telemedicine and real-time communication platforms 
+  My work focuses on delivering real-world mobile solutions, from telemedicine and real-time communication platforms 
   to e-commerce, service booking, and location-based applications.
 </p>
 
