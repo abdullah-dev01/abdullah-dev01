@@ -1,15 +1,15 @@
-<h1 align="left">👋 Hi there, I'm Abdullah!</h1>
-<h3 align="left">Software Engineer & Flutter Developer | IAS Alumnus</h3>
+<h1 align="left">👋 Hi there, I'm Abdullah</h1>
+<h3 align="left">Software Engineer & Mobile Application Developer</h3>
 
 <p align="left">
-  Mobile application developer with 22 months of professional experience in Pakistan’s tech industry, 
-  specializing in scalable and high-performance Flutter applications.
+  I am a Flutter developer with nearly two years of professional experience building and scaling production mobile applications. I specialize in creating reliable, maintainable software using clean architecture and modern state management. 
 </p>
 
 <p align="left">
-  <strong>📚 Currently deepening my knowledge in advanced software design patterns and enterprise-level architecture</strong><br>
-  <strong>🤝 Open to collaborating on innovative mobile projects</strong><br>
-  <strong>💡 Ask me about Flutter, Dart, Clean Architecture, Firebase, real-time systems, and scalable app development</strong>
+  🚀 <strong>Track Record:</strong> 7 published applications across healthcare, AI, and utility domains, including core features for apps with 100K+ active Google Play downloads.<br>
+  🛠️ <strong>Tech Stack:</strong> Flutter, Dart, BLoC, Provider, Riverpod, Firebase, REST APIs.<br>
+  🏗️ <strong>Architecture:</strong> Clean Architecture, MVVM, System-Level Design.<br>
+  📫 <strong>Reach me at:</strong> abdullahflutterwork@gmail.com
 </p>
 
 <h3 align="left">Connect with me:</h3>
