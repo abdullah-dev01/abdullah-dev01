@@ -39,28 +39,26 @@
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullah&show_icons=true&locale=en" alt="GitHub stats" /></p>
-
 
 ### GitHub stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullah&show_icons=true&locale=en&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah&layout=compact&locale=en&hide_border=true" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullah-dev01&show_icons=true&locale=en&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-dev01&layout=compact&locale=en&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-dev01&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullah&row=1&column=6&margin-w=10&no-frame=true" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullah-dev01&row=1&column=6&margin-w=10&no-frame=true" alt="GitHub trophies" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah&hide_border=true&area=true" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-dev01&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abdullah&label=Profile%20views&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abdullah-dev01&label=Profile%20views&style=flat" alt="Profile views" />
 </p>
