@@ -52,7 +52,7 @@
 </p>
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullah-dev01&row=1&column=6&margin-w=10&no-frame=true" alt="GitHub trophies" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=abdullah-dev01&row=1&column=6&margin-w=10&no-frame=true" alt="GitHub trophies](https://github-profile-trophy.vercel.app/?username=abdullah-dev01&row=1&column=6)" />
 </p>
 
 <p align="left">
