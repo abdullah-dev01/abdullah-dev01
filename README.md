@@ -60,5 +60,5 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=abdullah-dev01&label=Profile%20views&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abdullah-dev01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
