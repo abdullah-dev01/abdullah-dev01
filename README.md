@@ -48,14 +48,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-dev01&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="left">
-  <img src="[https://github-profile-trophy.vercel.app/?username=abdullah-dev01&row=1&column=6&margin-w=10&no-frame=true" alt="GitHub trophies](https://github-profile-trophy.vercel.app/?username=abdullah-dev01&row=1&column=6)" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah-dev01&hide_border=true&area=true" alt="Contribution graph" />
 </p>
 
