@@ -42,10 +42,10 @@
 
 ### GitHub stats
 
-<p align="left">
+<!-- <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdullah-dev01&show_icons=true&locale=en&hide_border=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-dev01&layout=compact&locale=en&hide_border=true" alt="Top languages" />
-</p>
+</p> -->
 
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-dev01&hide_border=true" alt="GitHub streak" />
