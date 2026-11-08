@@ -11,11 +11,11 @@
 
 | App | What it does | Links |
 |-----|--------------|-------|
-| **Bondly Pet Care** | Two-sided service booking, recurring bookings, in-app payments, live GPS tracking | [iOS](https://apps.apple.com/gb/app/bondly-pet-care/id6756836142) · [Android](https://play.google.com/store/apps/details?id=com.bondly.petcare) · [Website](https://bondlypets.com/) |
+| **You2Lize** | Interactive Google Maps discovery, 1:1 and group chat, events | [iOS](https://apps.apple.com/ie/app/you2lize/id6754333975) |
 | **Circ Marketplace** | Buy/sell marketplace, seller profiles, social feed, messaging, Paystack checkout | [iOS](https://apps.apple.com/us/app/circ-marketplace/id6752390042) · [Android](https://play.google.com/store/apps/details?id=co.codeminer.circMarket) |
 | **PickSpot** | Social commerce orders, real-time rider tracking, OTP delivery confirmation, payment release | [Android](https://play.google.com/store/apps/details?id=io.pickspot.app.dev) |
-| **You2Lize** | Interactive Google Maps discovery, 1:1 and group chat, events | [iOS](https://apps.apple.com/ie/app/you2lize/id6754333975) |
 | **Luvita AI** | AI assistant, AI-assisted message drafting, nearby discovery | [iOS](https://apps.apple.com/kz/app/luvita-ai/id6744300505) |
+| **Bondly Pet Care** | Two-sided service booking, recurring bookings, in-app payments, live GPS tracking | [iOS](https://apps.apple.com/gb/app/bondly-pet-care/id6756836142) · [Android](https://play.google.com/store/apps/details?id=com.bondly.petcare) · [Website](https://bondlypets.com/) |
 
 ---
 
